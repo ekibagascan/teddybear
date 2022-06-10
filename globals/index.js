@@ -1,0 +1,1 @@
+global.log = require('./lib/log');
